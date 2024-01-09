@@ -1,0 +1,104 @@
+*{
+    margin:20px;
+    padding: 0;
+    
+}
+.banner{
+    background-image:url(./Images/banner.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.banner1{
+    text-align: center;
+    color: #FFF;
+    padding:100px 150px;
+    
+}
+.banner1 h1{
+    font-size: 72px;
+}
+.banner1 p{
+    font-size: 32px;
+    
+}
+.offer{
+    text-align: center;
+}
+.offer h2{
+    color: #F00;
+    font-size: 88px;
+}
+.offer p{
+    color: #F00;
+    font-size: 24px;
+}
+.offer h3{
+    font-size: 48px;
+    
+}
+#section2 {
+    background-image:url(./Images/Vectorrr.png);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.party{
+    color: #FFF;
+    /* padding: 126px 550px 126px 0; */
+    display: flex;
+    justify-content: space-between;
+}
+.party-right{
+    padding: 100px;
+}
+.party-right h1{
+    font-size: 60px;
+}
+.party-right p{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.80);
+}
+.prim-btn{
+    background-color: black;
+    border-radius: 20px;
+    color:#FFF; 
+    font-size: 20px;
+    
+}
+/* third section */
+.section3{
+    background-color:rgb(218, 173, 181);
+    height: 300px;
+    text-align: center;
+    padding-top:150px;
+    font-size: 30px;
+
+}
+.place span {
+    color: #F00;
+}
+.prim-btnn{
+    background-color: #F00;
+    border: none;
+    border-radius: 5px;
+    color: #FFF;
+    padding: 15px;
+    
+}
+/* footer-part */
+footer{
+    background-color: black;
+    margin: 0;
+    background-size: cover;
+    color: #FFF;
+    height: 300px;
+}
+.footer-part{
+    display: flex;
+    justify-content: space-between;
+    color: #FFF;
+}
+
+
+
